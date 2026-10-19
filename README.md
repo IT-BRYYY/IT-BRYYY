@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm ITM 👋
 
-<!--
-**IT-BRYYY/IT-BRYYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Backend Developer
 
-Here are some ideas to get you started:
+BSIT student learning to build reliable, practical software applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Java, Spring Boot, PostgreSQL, and Docker**.
+
+### 🚀 Featured Project
+
+**Barangay Soro Soro Resident Portal**
+
+A web-based resident portal built with Spring Boot, Thymeleaf, and PostgreSQL to support document requests, announcements, and barangay administration.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java, SQL, HTML, CSS, JavaScript
+- **Backend:** Spring Boot
+- **Database:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, Docker, IntelliJ IDEA
+
+### 🎯 Current Goals
+
+- Strengthen my Java and backend development skills
+- Build practical projects and learn software architecture
+- Improve testing, debugging, and deployment
+- Prepare for a junior backend developer role
+
+> Building, breaking, debugging, and learning one project at a time.
