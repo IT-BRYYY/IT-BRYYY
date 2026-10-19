@@ -8,7 +8,7 @@ BSIT student learning to build reliable, practical software applications.
 
 ### 🚀 Featured Project
 
-**Barangay Soro Soro Resident Portal**
+**Barangay Resident Portal**
 
 A web-based resident portal built with Spring Boot, Thymeleaf, and PostgreSQL to support document requests, announcements, and barangay administration.
 
