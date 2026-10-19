@@ -35,7 +35,7 @@ BSIT student passionate about building practical software applications, learning
 
 ## 🚀 Featured Project
 
-### 🏘️ Barangay Soro Soro Resident Portal
+### 🏘️ Barangay Resident Portal
 
 A web-based resident portal developed as a capstone project to support barangay services and resident interactions.
 
