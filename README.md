@@ -72,6 +72,21 @@ A full-stack personal finance management web application designed to help users 
 *The complete source code is maintained in a private repository. The public showcase contains screenshots, technical documentation, and project details.*
 
 ---
+### 📦 StockDesk — Inventory Management Desktop Application
+
+A JavaFX desktop application designed to manage products, track inventory movements, and monitor stock levels using a local SQLite database.
+
+**Key Features**
+- 📊 Inventory dashboard with product counts, inventory valuation, and low-stock monitoring
+- 📦 Add, edit, delete, and search products
+- 🔄 Stock IN and Stock OUT with insufficient-stock prevention
+- 🕒 Stock movement history and timestamps
+- 🎨 Switchable light and dark themes
+- 💾 Persistent local storage using SQLite and JDBC
+
+**Built With:** Java 21 · JavaFX · SQLite · JDBC · Maven
+
+**🔗 [View StockDesk Source Code & Screenshots](YOUR_ACTUAL_STOCKDESK_REPOSITORY_URL)**
 
 ### 🏘️ Barangay Resident Portal — Capstone Project
 
