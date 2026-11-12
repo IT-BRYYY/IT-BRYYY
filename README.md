@@ -86,7 +86,7 @@ A JavaFX desktop application designed to manage products, track inventory moveme
 
 **Built With:** Java 21 · JavaFX · SQLite · JDBC · Maven
 
-**🔗 [View StockDesk Source Code & Screenshots](YOUR_ACTUAL_STOCKDESK_REPOSITORY_URL)**
+**🔗 [View StockDesk Source Code & Screenshots](https://github.com/IT-BRYYY/StockDesk.git)**
 
 ---
 ### 🏘️ Barangay Resident Portal — Capstone Project
