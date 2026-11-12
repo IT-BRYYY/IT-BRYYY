@@ -88,6 +88,7 @@ A JavaFX desktop application designed to manage products, track inventory moveme
 
 **🔗 [View StockDesk Source Code & Screenshots](YOUR_ACTUAL_STOCKDESK_REPOSITORY_URL)**
 
+---
 ### 🏘️ Barangay Resident Portal — Capstone Project
 
 A web-based barangay service and community assistance platform developed to support resident services and barangay administrative operations.
